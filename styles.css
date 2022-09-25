@@ -1,0 +1,55 @@
+/* 
+    Created on : Sep 21, 2022, 10:03:32 AM
+    Author     : sloa7941
+*/
+
+.menu {
+	border-style: solid;
+	border-radius: 5px;
+    background-color: #99ccff;
+    border-width: 3px;
+}
+
+.menu_row {
+	border-style: solid;
+	border-width: 1px;
+	border-radius: 5px;
+	border-color: gray;
+	
+	text-align: center;
+	padding-left: 30px;
+	padding-right: 30px;
+	padding-bottom: 0px;
+	padding-top: 0px;
+}
+
+.menu_row > a:link {
+	color: black;
+	text-decoration: none;
+}
+
+.menu_row > a:visited {
+	color: black;
+	text-decoration: none;
+}
+
+.menu_row > a:hover {
+	color: blue;
+	text-decoration: none;
+}
+
+.menu_row > a:active {
+	color: black;
+	text-decoration: none;
+}
+
+div {
+    font-family: Roboto, Arial, Times New Roman;
+}
+
+footer {
+	border-style: solid;
+	border-width: 0px 0px 0px 10px;
+    background-color: #e5ebef;
+	padding-left: 10px;
+}
